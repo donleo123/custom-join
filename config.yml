@@ -1,0 +1,5 @@
+#Here can you edit the join message!
+#Variables: %player% for the player name.
+
+join message: '&eThe player %player% is finally back!'
+first join message: '&aWelcome %player% on the server!'

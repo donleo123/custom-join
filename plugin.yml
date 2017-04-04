@@ -1,0 +1,15 @@
+name: CustomJoin v3.0
+version: 3.0
+author: donleo123
+main: me.donleo123.main.Main
+description: Custom join Message
+  
+commands:
+  customjoin:
+    description: Main Command.
+    permissions: 
+      customjoin.admin
+  cj:
+    description: Alias of /CustomJoin.
+    permissions: 
+      customjoin.admin
